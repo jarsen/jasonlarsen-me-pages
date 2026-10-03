@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>Jason Larsen</title>
     <subtitle>Effing around with the ineffable and finding out.</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://jarsen.github.io/jasonlarsen-me-pages/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://jarsen.github.io/jasonlarsen-me-pages"/>
+    <link rel="self" type="application/atom+xml" href="https://jasonlarsen.me/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://jasonlarsen.me"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-10-12T16:38:03+00:00</updated>
-    <id>https://jarsen.github.io/jasonlarsen-me-pages/atom.xml</id>
+    <id>https://jasonlarsen.me/atom.xml</id>
     <entry xml:lang="en">
         <title>On Laughter, Suffering Well, Age, and Love</title>
         <published>2024-10-12T16:38:03+00:00</published>
@@ -16,10 +16,10 @@
           <name>Unknown</name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://jarsen.github.io/jasonlarsen-me-pages/on-laughter-suffering-well-age-and-love/"/>
-        <id>https://jarsen.github.io/jasonlarsen-me-pages/on-laughter-suffering-well-age-and-love/</id>
+        <link rel="alternate" type="text/html" href="https://jasonlarsen.me/on-laughter-suffering-well-age-and-love/"/>
+        <id>https://jasonlarsen.me/on-laughter-suffering-well-age-and-love/</id>
         
-        <content type="html" xml:base="https://jarsen.github.io/jasonlarsen-me-pages/on-laughter-suffering-well-age-and-love/">&lt;p&gt;This morning I caught myself laughing in the mirror. Full belly laugh. I don’t remember why. Just a little inside joke I think. Silly little Jason moment. You know what that’s like? &lt;a rel=&quot;external&quot; href=&quot;https://www.youtube.com/watch?v=r-rHc8tm5_c&quot;&gt;To feel like a child again&lt;/a&gt;? There was a time not so long ago where I had forgotten. A time where I realized I had forgotten how to truly laugh.&lt;/p&gt;
+        <content type="html" xml:base="https://jasonlarsen.me/on-laughter-suffering-well-age-and-love/">&lt;p&gt;This morning I caught myself laughing in the mirror. Full belly laugh. I don’t remember why. Just a little inside joke I think. Silly little Jason moment. You know what that’s like? &lt;a rel=&quot;external&quot; href=&quot;https://www.youtube.com/watch?v=r-rHc8tm5_c&quot;&gt;To feel like a child again&lt;/a&gt;? There was a time not so long ago where I had forgotten. A time where I realized I had forgotten how to truly laugh.&lt;/p&gt;
 &lt;p&gt;I’ve been thinking a lot lately about age, and the wisdom that comes with age. I’ve been pondering how age makes it easier to relinquish your need to impress others, and find your soul. You can really just sense when someone has gone through this, can’t you? You see them at the coffee shop or the grocery story, and their smallest movement or glance at their eyes betrays them.&lt;/p&gt;
 &lt;p&gt;Obviously not everyone figures this out with age. Some 20 year olds have found it. Some 80 year olds have still forgotten. But there’s something that comes with time—more opportunities to experience pain, and more importantly to to suffer well—that will always lead you down the windy path to some deep little pool. When you look in that pool, you see yourself again for the first time, and your life can never be the same again.&lt;/p&gt;
 &lt;p&gt;At the coffee shop this morning, I felt like reading a little bit of Walt Whitman’s Song of Myself. Starting at the beginning:&lt;/p&gt;
@@ -79,10 +79,10 @@ Doesn’t make any sense.&lt;/p&gt;
           <name>Unknown</name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://jarsen.github.io/jasonlarsen-me-pages/the-drowned-book/"/>
-        <id>https://jarsen.github.io/jasonlarsen-me-pages/the-drowned-book/</id>
+        <link rel="alternate" type="text/html" href="https://jasonlarsen.me/the-drowned-book/"/>
+        <id>https://jasonlarsen.me/the-drowned-book/</id>
         
-        <content type="html" xml:base="https://jarsen.github.io/jasonlarsen-me-pages/the-drowned-book/">&lt;p&gt;&lt;em&gt;Surrendering Notebook Knowledge and Living Your Own Beautiful Questions&lt;/em&gt;&lt;/p&gt;
+        <content type="html" xml:base="https://jasonlarsen.me/the-drowned-book/">&lt;p&gt;&lt;em&gt;Surrendering Notebook Knowledge and Living Your Own Beautiful Questions&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Before the great poet Rumi rose into his own, he traveled from town to town teaching from his father’s notebook. His father, Bahauddin, had been an important mystic, and his book overflowed with personal notes and wisdom. It was of immense value given its cultural impact on the communities who had looked to Bahauddin for spiritual guidance. It was also of immeasurable importance to Rumi: the book connected him to his father and to his father’s wisdom.&lt;/p&gt;
 &lt;p&gt;But it wasn’t Rumi’s book.&lt;/p&gt;
 &lt;p&gt;One day, many gathered around to hear Rumi teach. He rested his father’s book on the ledge of the town’s fountain. As he spoke, an old man stepped forward from the crowd. Grabbing the book, he threw it into the fountain. Everyone stood in hushed disbelief.&lt;/p&gt;
@@ -126,10 +126,10 @@ And he lifts Bahauddin’s notebook out, “Dry.”&lt;/p&gt;
           <name>Unknown</name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://jarsen.github.io/jasonlarsen-me-pages/surrender/"/>
-        <id>https://jarsen.github.io/jasonlarsen-me-pages/surrender/</id>
+        <link rel="alternate" type="text/html" href="https://jasonlarsen.me/surrender/"/>
+        <id>https://jasonlarsen.me/surrender/</id>
         
-        <content type="html" xml:base="https://jarsen.github.io/jasonlarsen-me-pages/surrender/">&lt;p&gt;I am beginning to understand that each time I surrender, the universe reveals to me that I am still holding on.&lt;/p&gt;
+        <content type="html" xml:base="https://jasonlarsen.me/surrender/">&lt;p&gt;I am beginning to understand that each time I surrender, the universe reveals to me that I am still holding on.&lt;/p&gt;
 &lt;p&gt;Just as my every exhale is followed by an inhale—only when the final breath leaves this body will my grasping cease.&lt;/p&gt;
 &lt;p&gt;Perhaps you can never be fully surrendered; you can only be surrendering.&lt;/p&gt;
 &lt;p&gt;To surrender, you must hold.&lt;/p&gt;
@@ -167,10 +167,10 @@ to let it go.&lt;br /&gt;
           <name>Unknown</name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://jarsen.github.io/jasonlarsen-me-pages/remebering-2022/"/>
-        <id>https://jarsen.github.io/jasonlarsen-me-pages/remebering-2022/</id>
+        <link rel="alternate" type="text/html" href="https://jasonlarsen.me/remebering-2022/"/>
+        <id>https://jasonlarsen.me/remebering-2022/</id>
         
-        <content type="html" xml:base="https://jarsen.github.io/jasonlarsen-me-pages/remebering-2022/">&lt;blockquote&gt;
+        <content type="html" xml:base="https://jasonlarsen.me/remebering-2022/">&lt;blockquote&gt;
 &lt;p&gt;Out beyond ideas of wrongdoing and rightdoing, there is a field. I’ll meet you there.&lt;br /&gt;
 &lt;br /&gt;
 When the soul lies down in that grass, the world is too full to talk about&lt;br /&gt;

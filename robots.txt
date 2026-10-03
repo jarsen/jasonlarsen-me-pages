@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://jarsen.github.io/jasonlarsen-me-pages/sitemap.xml
+Sitemap: https://jasonlarsen.me/sitemap.xml
