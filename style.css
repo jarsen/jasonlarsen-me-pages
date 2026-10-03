@@ -1,0 +1,53 @@
+:root {
+  --bg: #f2efe4;
+  --fg: #1c211c;
+  --muted: #62685f;
+  --link: #145a32;
+  --rule: #9ca394;
+  font-family: ui-monospace, "Cascadia Code", "SFMono-Regular", Consolas, monospace;
+  color-scheme: light dark;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root { --bg: #101410; --fg: #d7decf; --muted: #929c8d; --link: #80c98b; --rule: #465044; }
+}
+
+* { box-sizing: border-box; }
+html { background: var(--bg); color: var(--fg); font-size: 17px; line-height: 1.65; }
+body { width: min(100% - 2rem, 76ch); margin: 0 auto; }
+a { color: var(--link); text-decoration-thickness: .08em; text-underline-offset: .16em; }
+a:visited { color: color-mix(in srgb, var(--link) 65%, var(--muted)); }
+a:hover { background: var(--link); color: var(--bg); text-decoration: none; }
+.site-header, footer { display: flex; justify-content: space-between; gap: 1rem; padding: 1rem 0; border-color: var(--rule); }
+.site-header { border-bottom: 1px dashed var(--rule); }
+.site-title { font-weight: 700; text-decoration: none; }
+nav { display: flex; flex-wrap: wrap; gap: 1rem; }
+main { min-height: 75vh; padding: 3rem 0; }
+footer { margin-top: 2rem; border-top: 1px dashed var(--rule); color: var(--muted); font-size: .8rem; }
+h1, h2, h3 { line-height: 1.2; margin: 2em 0 .7em; }
+h1::before { content: "# "; color: var(--muted); }
+h2::before { content: "## "; color: var(--muted); }
+h3::before { content: "### "; color: var(--muted); }
+.intro h1 { margin-top: 0; }
+.post-list { list-style: none; padding: 0; }
+.post-list li { display: grid; grid-template-columns: 7rem 1fr; gap: 1rem; margin: .55rem 0; }
+time, .tags { color: var(--muted); font-size: .85rem; }
+.article-header h1 { margin-bottom: .35rem; }
+.article-header { margin-bottom: 3rem; }
+.tags { margin-left: 1rem; }
+.prose p { margin: 1.2em 0; }
+blockquote { margin: 1.5rem 0; padding-left: 1rem; border-left: .25rem solid var(--rule); color: var(--muted); }
+pre { overflow-x: auto; padding: 1rem; border: 1px solid var(--rule); background: color-mix(in srgb, var(--bg) 80%, var(--fg)); }
+code { font-size: .9em; }
+:not(pre) > code { padding: .1em .3em; border: 1px solid var(--rule); }
+table { display: block; overflow-x: auto; border-collapse: collapse; }
+th, td { padding: .4rem .7rem; border: 1px solid var(--rule); }
+hr { margin: 3rem auto; border: 0; border-top: 1px dashed var(--rule); }
+
+@media (max-width: 38rem) {
+  .site-header, footer { display: block; }
+  nav { margin-top: .5rem; }
+  .post-list li { display: block; margin-bottom: 1rem; }
+  .post-list time { display: block; }
+  .tags { display: block; margin: .5rem 0 0; }
+}
